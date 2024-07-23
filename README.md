@@ -1,9 +1,5 @@
-# Chat_App
-
-Certainly! Here’s a sample README file for your real-time chat application using Node.js and Socket.io:
 
 ---
-
 # Real-Time Chat Application
 
 Welcome to the Real-Time Chat Application! This project is a simple yet powerful real-time chat application built with Node.js and Socket.io. It allows users to send and receive messages in real time.
